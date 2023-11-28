@@ -1312,7 +1312,7 @@ section {
   box-sizing: border-box;
 }
 #body1 {
-  width: 100vw;
+
   height: 70vh;
   margin: 0;
   display: flex;
